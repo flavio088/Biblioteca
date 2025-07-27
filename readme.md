@@ -30,3 +30,11 @@ Biblioteca/
 ├── .gitignore
 ├── package.json
 └── README.md
+
+Instale as dependências
+
+npm install
+
+🤝 Contribuições
+
+Contribuições são bem-vindas! Sinta-se livre para abrir issues, propor melhorias ou enviar pull requests.
